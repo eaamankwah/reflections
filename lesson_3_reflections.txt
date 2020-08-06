@@ -12,3 +12,8 @@ use one instead of another?
 Answer:Forks, clones, and branches are all different ways one can add new changes without loosing the original version.  Branching adds new changes in the same repository.  Forking and cloning are copy mechanisms of an entire repository to a new location.  Forking only happens on GitHub where repository is copied from an original GitHub to a new GitHub. Cloning copies any Git repository to a GitHub, local repository and wherever there is access.
 
 Branching helps when working on a new feature that will add changes to a repository and at the same time keeping reference to the old or origin version. It is also great for collaborating on a project. Cloning helps to work and make changes on a repository locally instead of using GitHub environment. Forking helps when making changes to repositories without having permission to modify the original work.
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+Answer: It helps to know what the state of the last local version is at any time. Going offline without the latest state of remote will hinder one from merging without internet. 
