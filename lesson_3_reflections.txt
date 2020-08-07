@@ -16,4 +16,11 @@ Branching helps when working on a new feature that will add changes to a reposit
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-Answer: It helps to know what the state of the last local version is at any time. Going offline without the latest state of remote will hinder one from merging without internet. 
+Answer: It helps to know what the state of the last local version is at any time. Going offline without the latest state of remote will hinder one from merging without internet.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+Answer: using Jupyter notebooks, Google docs and shared folders such as DropBox can help but to some extent. However, working on the same file interactively and ensuring that the master code is free from bugs could be challenging without collaborating with Git or GitHub.
+
+Resolving conflicts on some of these tools could also be challenging since changes from different sources on the same file can result in a big bug especially with coding.
+ 
